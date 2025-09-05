@@ -1,3 +1,4 @@
 # git practice
 
-Giới thiệu: Tôi là <Trịnh Minh Dũng>, MSSV <223483>.
+Giới thiệu: Đây là bản chỉnh sửa từ branch conflict-demo-2.
+
